@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<main>
+    <emp id="1001">
+        <ename>Salman</ename>
+        <lname>Ranta</lname>
+        <email>SalmanSaeed106@gmail.com</email>
+        <contact>03373110847</contact>
+        <salary>10000</salary>
+        <desigination>Admin</desigination>
+    </emp>
+    <emp id="1002">
+        <ename >Saifullah</ename>
+        <lname>Ranta</lname>
+        <email>SaifullahSaeed106@gmail.com</email>
+        <contact>03373110847</contact>
+        <salary>10000</salary>
+        <desigination>Admin</desigination>
+    </emp>
+    <emp id="1003">
+        <ename >Waqas</ename>
+        <lname>Ranta</lname>
+        <email>WaqasSaeed106@gmail.com</email>
+        <contact>03373110847</contact>
+        <salary>10000</salary>
+        <desigination>Admin</desigination>
+    </emp>
+    <emp id="1004">
+        <ename >Sohail</ename>
+        <lname>Ranta</lname>
+        <email>SohailSaeed106@gmail.com</email>
+        <contact>03373110847</contact>
+        <salary>10000</salary>
+        <desigination>Admin</desigination>
+    </emp>
+    <emp id="1005">
+        <ename >Kashif</ename>
+        <lname>Ali</lname>
+        <email>KashifAli106@gmail.com</email>
+        <contact>03373110847</contact>
+        <salary>12000</salary>
+        <desigination>No Admin</desigination>
+    </emp>
+    <emp id="1006">
+        <ename >Yaqoob</ename>
+        <lname>Rahi</lname>
+        <email>YaqoobRahi106@gmail.com</email>
+        <contact>03373110847</contact>
+        <salary>10000</salary>
+        <desigination>Admin</desigination>
+    </emp>
+    
+</main>
